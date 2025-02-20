@@ -17,12 +17,11 @@ E-learning backend application project developed with [NestJS](https://nestjs.co
 	<li>- [ ] Subscription</li>
 </ul>
 
-**Front-end website repository** => [E-learning website](https://github.com/phyohtetarkar/hope-elearning-web/)
 
 ## Requirements
 <ol>
-	<li>Node.js 16 or later</li>
-	<li>PostgreSQL 16 or later</li>
+	<li>Node.js 20 or later</li>
+	<li>PostgreSQL 17 or later</li>
 	<li>Firebase auth setup</li>
 </ol>
 
@@ -93,7 +92,7 @@ You can explore api docs via path `http://localhost:3080/api-docs`.
 
 ## Support me
 
-<a href="https://www.buymeacoffee.com/yzox2vc1i">
+<a href="https://www.buymeacoffee.com/SteveRuben">
 	<img src="images/bmc-button.png" width="200">
 </a>
 <br/>
@@ -101,18 +100,3 @@ You can explore api docs via path `http://localhost:3080/api-docs`.
 
 ## Screenshots
 
-<img src="images/landing.png">
-
-<img src="images/course-detail-dark.png">
-
-<img src="images/quiz-learn.png">
-
-<img src="images/dashboard.png">
-
-<img src="images/lesson-edit.png">
-
-<img src="images/lesson-edit-dark.png">
-
-<img src="images/post-edit.png">
-
-<img src="images/math-equations.png">
