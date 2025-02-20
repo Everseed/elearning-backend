@@ -98,5 +98,4 @@ You can explore api docs via path `http://localhost:3080/api-docs`.
 <br/>
 <br/>
 
-## Screenshots
 
